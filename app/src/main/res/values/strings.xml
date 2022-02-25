@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">O que assistir?</string>
+
+    <!-- Search -->
+    <string name="text_search">Procure um filme para assistir!</string>
+    <string name="text_title">Titulo:</string>
+    <string name="text_tagline">Slogan:</string>
+    <string name="text_language">Linguagem:</string>
+    <string name="text_release">Lançamento:</string>
+    <string name="text_overview">Descrição:</string>
+    <string name="text_genre">Genero:</string>
+    <string name="text_voteAverage">Nota média:</string>
+    <string name="text_voteCount">Total de votos</string>
+</resources>
